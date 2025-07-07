@@ -1,0 +1,9 @@
+# Dependências
+node_modules
+
+# Arquivos de build de produção
+dist
+build
+
+# Arquivos de ambiente (contêm senhas e chaves)
+.env
